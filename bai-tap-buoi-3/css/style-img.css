@@ -1,0 +1,21 @@
+img {
+	vertical-align: text-top;
+	width: 500px;
+	height: ;
+	padding-left: 100px;
+	padding-top: 50px;
+	float: left;
+}
+.text {
+	padding-top: 50px;
+	padding-left: 680px;
+	padding-right: 150px;
+	line-height: 40px;
+}
+#text-red {
+	color: red;
+}
+body{
+	background: rgb(119,118,33);
+	background: linear-gradient(90deg, rgba(119,118,33,1) 0%, rgba(246,246,246,1) 100%);
+}

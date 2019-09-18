@@ -1,0 +1,62 @@
+.img-background img {
+	vertical-align: middle;
+	width: 800px ;
+	height: ;
+	float: left;
+	padding-left: 50px;
+	padding-bottom: 50px;	
+}
+.img-background {
+	padding-top: 50px;
+	text-align: center;	
+}
+.text1 {
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 50px;
+}
+
+.text3 {
+	font-size: 20px;
+	padding-top: 50px;
+	padding-left: 930px;
+	padding-right: 50px;
+	line-height: 50px;
+}
+.text2 {
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.img-list img {
+	width: 300px;
+	height: ;
+}
+.img1 {
+	padding-left: 150px;
+}
+.img2 {
+	padding-left: 50px;
+}
+.img3 {
+	padding-left: 50px;
+}
+.img4 {
+	padding-left: 150px;
+}
+.img5 {
+	padding-left: 50px;
+}
+.img6 {
+	padding-left: 50px;
+}
+.l1 {
+	padding-left: 50px;
+}
+body{
+	background: rgb(133,127,127);
+	background: linear-gradient(90deg, rgba(133,127,127,1) 0%, rgba(245,238,238,1) 100%);
+}
