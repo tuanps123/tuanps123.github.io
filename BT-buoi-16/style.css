@@ -1,0 +1,44 @@
+
+fieldset{
+	max-width: 700px;
+	min-height: 400px;
+	height: auto;
+	border-radius: 10px;
+	margin: 50px auto;
+	padding: 40px 40px 40px;
+}
+
+form{
+	font-family: 'Google Sans',arial,sans-serif;
+	display: grid;
+	grid-template-columns: 55% 45%;
+	grid-template-rows: auto auto;
+	line-height: 2rem;
+	box-sizing: border-box;
+}
+img{
+height: 250px;
+width: ;
+}
+input{
+	line-height: 24px;
+	
+}
+#next{
+	border-radius: 4px;
+	background-color: #1a73e8;
+	height: 40px;
+	width: 100px;
+	line-height: 24px;
+	float: right;
+}
+.error{
+	color: red;
+	font-size: 12px;
+}
+#img{
+	align-self: center;
+}
+#creatMail{
+	align-self: center;
+}
